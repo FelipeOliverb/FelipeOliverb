@@ -1,11 +1,9 @@
-# Olá, eu sou o Felipe 👨‍💻
+# Hi, I'm Felipe 👨‍💻
 
-Sou **programador front-end** adoro criar interfaces e deixar tudo o mais estiloso possível.
+I'm a **front-end developer** who loves creating interfaces and making everything as stylish as possible.
 
-
-## Tecnologias que eu uso:
+## Technologies I use:
 - **HTML**, **CSS**, **JavaScript**
-- **Node.js**, **jQuery** e **Angular**
+- **Node.js**, **jQuery**, and **Angular**
 
-## Sempre em busca de aprender cada dia mais e me tornar melhor.
-
+## Always looking to learn more each day and become better.
