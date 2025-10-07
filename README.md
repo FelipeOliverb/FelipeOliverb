@@ -4,6 +4,6 @@ I'm a **front-end developer** who loves creating interfaces and making everythin
 
 ## Technologies I use:
 - **HTML**, **CSS**, **JavaScript**
-- **Node.js**, **jQuery**, and **Angular**
+- **Node.js** and **React**
 
 ## Always looking to learn more each day and become better.
