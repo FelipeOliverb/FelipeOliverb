@@ -1,4 +1,4 @@
-# Hi, I'm Felipe 👨‍💻
+# Hey, I'm Felipe
 
 I'm a **front-end developer** who loves creating interfaces and making everything as stylish as possible.
 
